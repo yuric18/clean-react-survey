@@ -1,5 +1,7 @@
 node_modules
-yarn.lock
-package-lock.json
 .vscode
 coverage
+public
+dist
+*.scss
+*.json
